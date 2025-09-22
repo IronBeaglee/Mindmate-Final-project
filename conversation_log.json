@@ -1,0 +1,558 @@
+[
+  {
+    "timestamp": "2025-09-18T04:50:43.061668",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "That\u2019s awesome! How did you feel when you first heard the news?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T04:50:55.312652",
+    "user": "It feels great, but I\u2019m a bit nervous too.",
+    "sentiment": "fear",
+    "mindmate": "What's been on your mind recently?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T04:51:09.985078",
+    "user": "I don\u2019t want to let my team down.",
+    "sentiment": "fear",
+    "mindmate": "What is the biggest fear you have?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T04:54:22.373618",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "What do you think surprised you?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T04:54:43.108726",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "What do you think surprised you?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T04:55:09.230287",
+    "user": "I\u2019m really excited, but also nervous about the new responsibilities",
+    "sentiment": "fear",
+    "mindmate": "How will you manage stress when you\u2019re having new responsibilities?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T04:55:48.449283",
+    "user": "i think I\u2019ll try to take things one step at a time, but I\u2019m worried I might slip up.",
+    "sentiment": "fear",
+    "mindmate": "I hear you're worried about your own safety. What are you doing to prepare?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T04:59:03.964029",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "What surprised you most about your promotion?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T04:59:12.447225",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "What surprised you most about your promotion?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T04:59:50.962876",
+    "user": "I didn\u2019t think it would happen this soon, but I feel really proud of myself",
+    "sentiment": "joy",
+    "mindmate": "Thank you for sharing! I'm sure it was a big accomplishment! Can you tell me more about that?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:00:32.755825",
+    "user": "I didn\u2019t think it would happen this soon, but I feel really proud of myself",
+    "sentiment": "joy",
+    "mindmate": "Thank you for sharing! I'm sure it was a big accomplishment! Can you tell me more about that?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:00:54.105106",
+    "user": "I\u2019m proud, but I\u2019m worried about handling all the new tasks",
+    "sentiment": "fear",
+    "mindmate": "What is keeping you from getting your promotion?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:01:21.889159",
+    "user": "I\u2019m proud, but I\u2019m worried about handling all the new tasks",
+    "sentiment": "fear",
+    "mindmate": "What is keeping you from getting your promotion?",
+    "feedback": "bad",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:01:37.700732",
+    "user": "I\u2019m worried about leading meetings since I\u2019ve never done that before",
+    "sentiment": "fear",
+    "mindmate": "What is it about you that you're most fearful about?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:01:59.650965",
+    "user": "I\u2019m worried about leading meetings since I\u2019ve never done that before",
+    "sentiment": "fear",
+    "mindmate": "What is it about you that you're most fearful about?",
+    "feedback": "bad",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:02:21.288595",
+    "user": "Maybe if I prepare notes beforehand, it\u2019ll help me feel less nervous",
+    "sentiment": "fear",
+    "mindmate": "I don't know. What do you think would help you feel less stressed about your presentation?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:02:46.419744",
+    "user": "Maybe if I prepare notes beforehand, it\u2019ll help me feel less nervous",
+    "sentiment": "fear",
+    "mindmate": "I don't know. What do you think would help you feel less stressed about your presentation?",
+    "feedback": "bad",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:04:48.351188",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "That's awesome! How did you feel when you first heard the news?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:04:53.754448",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "That's awesome! How did you feel when you first heard the news?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:05:32.116638",
+    "user": "I felt really excited, but nervous at the same time.",
+    "sentiment": "fear",
+    "mindmate": "Say you understand their anxiety and how they might be feeling. Can you tell me more about that?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:05:44.761145",
+    "user": "I felt really excited, but nervous at the same time.",
+    "sentiment": "fear",
+    "mindmate": "Say you understand their anxiety and how they might be feeling. Can you tell me more about that?",
+    "feedback": "bad",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:05:49.163534",
+    "user": "I felt really excited, but nervous at the same time.",
+    "sentiment": "fear",
+    "mindmate": "Say you understand their anxiety and how they might be feeling. Can you tell me more about that?",
+    "feedback": "bad",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:07:54.652322",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "It makes sense to feel surprise in that moment. What part of this situation feels most important to you right now?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:07:55.177150",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "It makes sense to feel surprise in that moment. What part of this situation feels most important to you right now?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:08:23.152998",
+    "user": "I think the most important part is proving that I can handle the new responsibilities.",
+    "sentiment": "neutral",
+    "mindmate": "How would you like to get a better job?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:09:19.847020",
+    "user": "I get to go out with my friends tonight.",
+    "sentiment": "joy",
+    "mindmate": "Thank you for your invitation. What do you need to do before you go out?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:11:29.799717",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "Well, congratulations! Can you tell me more about that?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:11:32.877730",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "Well, congratulations! Can you tell me more about that?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:12:07.364813",
+    "user": "I\u2019m excited, but I\u2019m nervous about all the new responsibilities",
+    "sentiment": "fear",
+    "mindmate": "Don\u2019t be afraid to ask questions. They can also let you know what\u2019s working well for them at the moment. Can you tell me more about that?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:12:20.216809",
+    "user": "I\u2019m excited, but I\u2019m nervous about all the new responsibilities",
+    "sentiment": "fear",
+    "mindmate": "Don\u2019t be afraid to ask questions. They can also let you know what\u2019s working well for them at the moment. Can you tell me more about that?",
+    "feedback": "bad",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:12:48.196071",
+    "user": "I think leading meetings will be the hardest part for me",
+    "sentiment": "fear",
+    "mindmate": "It seems like most people feel this way. Any advice you have for helping others overcome this fear?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T05:13:02.126202",
+    "user": "I think leading meetings will be the hardest part for me",
+    "sentiment": "fear",
+    "mindmate": "It seems like most people feel this way. Any advice you have for helping others overcome this fear?",
+    "feedback": "bad",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T16:26:38.486951",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "Thank you! This is great! Can you tell me more about that?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T16:29:56.364304",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "Thank you so much for this! Can you tell me more about that?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T16:30:01.951938",
+    "user": "I just got promoted at work!",
+    "sentiment": "surprise",
+    "mindmate": "Thank you so much for this! Can you tell me more about that?",
+    "feedback": "bad",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T16:30:58.835231",
+    "user": "im am nervous as i do not know if i can handle the new responsibilities",
+    "sentiment": "fear",
+    "mindmate": "ok. Any advice for the new responsibilities?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T16:31:06.301982",
+    "user": "im am nervous as i do not know if i can handle the new responsibilities",
+    "sentiment": "fear",
+    "mindmate": "ok. Any advice for the new responsibilities?",
+    "feedback": "bad",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-18T16:32:56.266621",
+    "user": "i just got promoted at work",
+    "sentiment": "joy",
+    "mindmate": "Say something like, \u201ccongratulations on the promotion, you?\u201d or \u201ccongratulations on the promotion, i think you are terrific. Congratulations!\u201d",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:04:46.823510",
+    "user": "I am happy today",
+    "sentiment": "joy",
+    "mindmate": "Acknowledge their detected emotion (joy). Can you tell me more about that?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:05:44.339796",
+    "user": "I got promoted today",
+    "sentiment": "joy",
+    "mindmate": "I know right?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:05:48.839944",
+    "user": "I got promoted today",
+    "sentiment": "joy",
+    "mindmate": "I know right?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:07:16.966763",
+    "user": " I'm feeling very sad today.",
+    "sentiment": "sadness",
+    "mindmate": "I know right?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:07:36.656139",
+    "user": " I am feeling very happy to hear.",
+    "sentiment": "joy",
+    "mindmate": "I know right. Can you tell me more about that?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:08:33.710827",
+    "user": " I got promoted today.",
+    "sentiment": "joy",
+    "mindmate": "Thank you. What kind of promotion did you have?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:09:16.001100",
+    "user": " I got promoted a lot today, I am happy.",
+    "sentiment": "joy",
+    "mindmate": "Happy? What are you happy about?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:10:19.728238",
+    "user": "I got promoted at work today.",
+    "sentiment": "joy",
+    "mindmate": "Acknowledge their joy. Can you tell me more about that?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:12:43.356805",
+    "user": " I got promoted at work today",
+    "sentiment": "joy",
+    "mindmate": "That\u2019s wonderful to hear! What\u2019s making you feel so happy today?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:13:00.358506",
+    "user": " I am...",
+    "sentiment": "joy",
+    "mindmate": "That\u2019s wonderful to hear! What\u2019s making you feel so happy today?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:13:27.233012",
+    "user": " I am happy today.",
+    "sentiment": "joy",
+    "mindmate": "That\u2019s wonderful to hear! What\u2019s making you feel so happy today?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:14:39.153138",
+    "user": " I am feeling set today.",
+    "sentiment": "joy",
+    "mindmate": "That\u2019s wonderful to hear! What\u2019s making you feel so happy today?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:14:53.488087",
+    "user": " I am feeling sad today.",
+    "sentiment": "sadness",
+    "mindmate": "That\u2019s wonderful to hear! What\u2019s making you feel so sad today?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:15:29.810785",
+    "user": " I'm a little upset today.",
+    "sentiment": "sadness",
+    "mindmate": "Speak in everyday conversational English, not clinical or robotic. Can you tell me more about that?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:16:19.927711",
+    "user": " I got scolded and worked three",
+    "sentiment": "sadness",
+    "mindmate": "Speak in everyday conversational English. Is there anything I can do for you?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:16:48.773138",
+    "user": " I am kind of angry today.",
+    "sentiment": "anger",
+    "mindmate": "End with a gentle, open-ended question to invite sharing. Can you tell me more about that?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:17:54.036281",
+    "user": " I am excited to go out today.",
+    "sentiment": "joy",
+    "mindmate": "That\u2019s wonderful to hear! What\u2019s making you feel so happy today?",
+    "feedback": "unrated",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T01:17:55.403836",
+    "user": " I am excited to go out today.",
+    "sentiment": "joy",
+    "mindmate": "That\u2019s wonderful to hear! What\u2019s making you feel so happy today?",
+    "feedback": "bad",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-20T09:00:01.000001",
+    "user": "Hello, are you working?",
+    "sentiment": "neutral",
+    "mindmate": "I cannot provide that info.",
+    "feedback": "bad",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-20T09:01:15.000124",
+    "user": "Just checking if you can hear me.",
+    "sentiment": "neutral",
+    "mindmate": "Yes, I hear you. Can you tell me more about that?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-20T09:02:43.000287",
+    "user": "I feel happy today.",
+    "sentiment": "joy",
+    "mindmate": "I know right?",
+    "feedback": "bad",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-20T09:03:55.000331",
+    "user": "I\u2019m a little sad.",
+    "sentiment": "sadness",
+    "mindmate": "That\u2019s wonderful to hear! What\u2019s making you feel so sad today?",
+    "feedback": "bad",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T10:03:27.000322",
+    "user": "I got promoted at work today.",
+    "sentiment": "joy",
+    "mindmate": "That\u2019s a big achievement \u2014 congratulations! How do you feel about it?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T10:04:40.000423",
+    "user": "I\u2019m stressed that maybe I cannot handle the new workload and the added number of workers under me.",
+    "sentiment": "fear",
+    "mindmate": "It\u2019s natural to feel that way when stepping into more responsibility. What do you think will be most challenging?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T10:06:10.000587",
+    "user": "I think leading meetings will be hardest.",
+    "sentiment": "fear",
+    "mindmate": "That makes sense \u2014 many people feel the same. What could help you feel more comfortable in those meetings?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T10:07:43.000623",
+    "user": "Maybe preparing notes in advance.",
+    "sentiment": "neutral",
+    "mindmate": "That\u2019s a great idea. How do you think that will change the way you feel during meetings?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-21T10:10:22.000845",
+    "user": "I am feeling more confident already, hope it will be a good day tomorrow as the first day of being promoted.",
+    "sentiment": "joy",
+    "mindmate": "I\u2019m glad you\u2019re feeling more confident. What\u2019s one thing you want to carry with you into tomorrow?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "timestamp": "2025-09-22T18:21:51.645263",
+    "user": " I feel more confident and in control.",
+    "sentiment": "joy",
+    "mindmate": "Tell me about your next project. Can you tell me more about that?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "user": " Today was my first day as a manager.",
+    "sentiment": "fear",
+    "mindmate": "That sounds like an important milestone. How did it go for you?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "user": "it went okay but i was nervous during the morning meeting",
+    "sentiment": "fear",
+    "mindmate": "It\u2019s normal to feel nervous when stepping into something new. What helped you get through the meeting?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "user": "i had my notes prepared so that made me feel less anxious",
+    "sentiment": "fear",
+    "mindmate": "That\u2019s a really smart approach. How did having notes change the way you felt while speaking?",
+    "feedback": "good",
+    "source": "generated"
+  },
+  {
+    "user": " I feel more confident and in control.",
+    "sentiment": "joy",
+    "mindmate": "Tell me about your next project. Can you tell me more about that?",
+    "feedback": "good",
+    "source": "generated"
+  }
+]
