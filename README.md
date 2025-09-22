@@ -14,3 +14,12 @@ Please download them separately and place them in the appropriate project direct
   [OpenAI Whisper Model – Tiny EN](https://huggingface.co/openai/whisper-tiny.en)
 
 👉 After downloading, place them in your project directory as follows:
+MindmateClean/
+├── main_gui.py
+├── logger.py
+├── cortana_widget.py
+├── requirements.txt
+├── models/
+│ ├── flan-t5-large/
+│ ├── emotion/
+│ └── tiny_en/
